@@ -35,3 +35,7 @@ All datasets used are included in the data/ folder with proper documentation.
 
 Final Submission
 The project concludes with a trained predictive model and a report summarizing insights on carbon emission trends.
+
+final model pickel file can be found here due to large file size:
+
+https://ssninstitute-my.sharepoint.com/:u:/g/personal/mdzaidhamid2312066_ssn_edu_in/EW8rdxhAwNhHio62KnRiQdUBNxbDec6Q0BGN-XjVgYkoVg?e=iyOyLC
